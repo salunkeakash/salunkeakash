@@ -70,7 +70,7 @@ Reach out to me at...
 - 📫 How to reach me at [info@etornam.dev](mailto:info@etornam.dev) -->
 
 <a href="https://github.com/salunkeakash">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamEtornam&layout=compact&theme=dracula&count_private=true&langs_count=10" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salunkeakash&layout=compact&theme=dracula&count_private=true&langs_count=10" />
 </a>
 
  
