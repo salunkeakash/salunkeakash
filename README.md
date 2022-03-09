@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
-## Hey, I'm Akash Salunke !👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=iamEtornam&label=Views&color=blue&style=plastic" alt="iamEtornam" /> </a>
+## Hey, I'm Akash Salunke !👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=iamEtornam&label=Views&color=blue&style=plastic" alt="salunkeakash" /> </a>
 
 I'm a Software Developer Developing Information Systems by Studying Operations, Designing, Implementing new systems and features, as well as modify and maintain
 existing systems for adaptation to business and/or technology changes.
@@ -72,8 +72,10 @@ Reach out to me at...
 - 📫 How to reach me at [info@etornam.dev](mailto:info@etornam.dev) -->
 
 <br/>
+<br/>
+<br/>
 <a href="https://github.com/salunkeakash">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salunkeakash&layout=compact&theme=dracula&count_private=true&langs_count=10" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=salunkeakash&layout=compact&theme=dracula&count_private=true&langs_count=10" />
 </a>
 
  
