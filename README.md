@@ -5,10 +5,10 @@
 I'm a Software Engineer who loves building mobile and backend services & discussing new product ideas from Ghana.
 <br/>
 <br/>
-Ask me anything about...
+<!-- Ask me anything about...
 
 <img src='https://img.shields.io/badge/flutter-%230095D5?logo=flutter&logoColor=blue&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/> <img src='https://img.shields.io/badge/nodejs-%2300ADD8.svg?&style=for-the-badge&logo=react&logoColor=white' height='25'/>
-
+ -->
 
 Reach out to me at...
 
@@ -24,11 +24,11 @@ Reach out to me at...
 <br/>
 <!-- <p></p>
 <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamEtornam&theme=dracula"/> -->
-<br/>
+<!-- <br/>
 <p></p>
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=iamEtornam&theme=dracula" />
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=iamEtornam&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=iamEtornam&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/> -->
 
 <br/>
 
@@ -69,6 +69,4 @@ Reach out to me at...
 - 💬 Apart from tech you can Ask me about Movies, TV Shows and Books,general discussions
 - 📫 How to reach me at [info@etornam.dev](mailto:info@etornam.dev)
 
-#### Listen to what i'm listening to on Spotify 🤗 🙂
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31byuiysnx23q3oci6gilepvzn5m&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+ 
