@@ -30,7 +30,7 @@ Reach out to me at...
 <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=iamEtornam&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/> -->
 
-<br/>
+<!-- <br/>
 
 #### Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -67,6 +67,6 @@ Reach out to me at...
 - 👯 I’m looking to collaborate on Mobile and Backend Projects
 - 🤔 I’m looking for help with my open source projects
 - 💬 Apart from tech you can Ask me about Movies, TV Shows and Books,general discussions
-- 📫 How to reach me at [info@etornam.dev](mailto:info@etornam.dev)
+- 📫 How to reach me at [info@etornam.dev](mailto:info@etornam.dev) -->
 
  
