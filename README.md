@@ -69,6 +69,7 @@ Reach out to me at...
 - 💬 Apart from tech you can Ask me about Movies, TV Shows and Books,general discussions
 - 📫 How to reach me at [info@etornam.dev](mailto:info@etornam.dev) -->
 
+<br/>
 <a href="https://github.com/salunkeakash">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salunkeakash&layout=compact&theme=dracula&count_private=true&langs_count=10" />
 </a>
