@@ -2,7 +2,7 @@
 
 ## Hey, I'm Akash Salunke !👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=iamEtornam&label=Views&color=blue&style=plastic" alt="iamEtornam" /> </a>
 
-I'm a Software Engineer who loves building mobile and backend services & discussing new product ideas from Ghana.
+I'm a Software Engineer who loves building mobile and backend services.
 <br/>
 <br/>
 <!-- Ask me anything about...
