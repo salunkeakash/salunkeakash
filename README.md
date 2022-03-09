@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+<img align="right" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif?raw=true" width="450" height="300" />
 
 ## Hey, I'm Akash Salunke !👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=iamEtornam&label=Views&color=blue&style=plastic" alt="salunkeakash" /> </a>
 
