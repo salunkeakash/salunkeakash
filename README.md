@@ -60,11 +60,17 @@ Reach out to me at...
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamEtornam&layout=compact&theme=dracula&count_private=true&langs_count=10" />
 </a>
 
+
+
 - 🔭 I’m currently working with Serverless
 - 🌱 I’m currently learning Go and Swift
 - 👯 I’m looking to collaborate on Mobile and Backend Projects
 - 🤔 I’m looking for help with my open source projects
 - 💬 Apart from tech you can Ask me about Movies, TV Shows and Books,general discussions
 - 📫 How to reach me at [info@etornam.dev](mailto:info@etornam.dev) -->
+
+<a href="https://github.com/salunkeakash">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamEtornam&layout=compact&theme=dracula&count_private=true&langs_count=10" />
+</a>
 
  
