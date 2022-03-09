@@ -2,7 +2,9 @@
 
 ## Hey, I'm Akash Salunke !👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=iamEtornam&label=Views&color=blue&style=plastic" alt="iamEtornam" /> </a>
 
-I'm a Software Engineer who loves building mobile and backend services.
+I'm a Software Developer Developing Information Systems by Studying Operations, Designing, Implementing new systems and features, as well as modify and maintain
+existing systems for adaptation to business and/or technology changes.
+
 <br/>
 <br/>
 <!-- Ask me anything about...
