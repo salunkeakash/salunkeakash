@@ -12,14 +12,12 @@ I'm a Software Engineer who loves building mobile and backend services.
 
 Reach out to me at...
 
-<a href="https://twitter.com/_iamEtornam">
-  <img align="left" alt="Etornam's Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />
-</a><a href="https://bit.ly/3iyxOl8">
-  <img align="left" alt="Etornam's Linkdein" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
-</a><a href="https://www.youtube.com/channel/UCjqJVNiIVMr2fFplaisHe1w">
-  <img align="left" alt="Etornam's Youtube" width="22px" style="background-color:red" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a><a href="https://bit.ly/2NVdwV1">
-  <img align="left" alt="Etornam's Facebook" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />
+ 
+<a href="">
+  <img align="left" alt="Akash's Linkdein" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
+</a> 
+<a href="">
+  <img align="left" alt="Akash's Facebook" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />
 </a>
 <br/>
 <!-- <p></p>
