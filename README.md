@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="[https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif](https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif)?raw=true" width="450" height="300" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" width="450" height="300" />
 
 ## Hey, I'm Akash Salunke !👋 <a align="left"> <img src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" alt="salunkeakash" /> </a>
 
