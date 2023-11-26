@@ -1,6 +1,5 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" width="450" height="300" />
-
-## Hey, I'm Akash Salunke !👋 <a align="left"> <img src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" alt="salunkeakash" /> </a>
+ 
 
 I'm a Software Developer Developing Information Systems by Studying Operations, Designing, Implementing new systems and features, as well as modify and maintain
 existing systems for adaptation to business and/or technology changes.
