@@ -1,8 +1,7 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" width="450" height="300" />
  
 
-I'm a Software Developer Developing Information Systems by Studying Operations, Designing, Implementing new systems and features, as well as modify and maintain
-existing systems for adaptation to business and/or technology changes.
+I am a Software Developer specializing in the development and enhancement of Information Systems. I analyze operational needs, design innovative systems and features, and implement them efficiently. Additionally, I modify and maintain existing systems to ensure seamless adaptation to evolving business requirements and technological advancements.
 
 <br/>  
 
