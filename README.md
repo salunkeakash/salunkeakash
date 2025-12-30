@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Salunke</h1>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" width="450" height="300" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" width="350" height="300" />
 
 I am a **Software Developer** specializing in the development and enhancement of **Information Systems**.  
 I analyze operational needs, design and implement innovative systems and features, and maintain existing solutions to ensure smooth adaptation to evolving business requirements and technology trends.
